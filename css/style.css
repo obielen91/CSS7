@@ -1,8 +1,12 @@
-p {color:hsl(90, 87%, 48%);
+p {
+    color: hsl(90, 87%, 48%);
 }
 
-h1, h3 {background-color: blanchedalmond;
+h1,
+h3 {
+    background-color: blanchedalmond;
 }
 
-h1 + h3 {color: red;
+h1+h3 {
+    color: red;
 }
